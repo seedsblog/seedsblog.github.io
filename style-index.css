@@ -1,0 +1,92 @@
+@charset "UTF-8";
+/* CSS Document */
+body {
+	background-color:#C4DA9C;
+}
+
+h1 {
+	display:inline;
+	
+}
+
+h2{
+	color: #000;
+}
+
+a { text-decoration: none;
+	background-color:#98B661;
+	color: #000;
+	padding-left: 20px;
+	padding-right: 20px;
+	float:right;
+}
+
+a:hover {
+	background-color: #fff;
+	color: #E7E6E6;
+	opacity: 0.5;
+	transition: all 1s;
+	margin-left: 30px;
+	align-content: center;
+}
+
+div {
+	width: 1024px;
+	height: 728px;
+}
+
+hr.new2 {
+	border-top: 1px dotted #fff;
+}
+
+.border{
+	display:block;
+	background-color: #98B661;
+	width: 1024px;
+	height:50px;
+	margin: auto;
+ 	width: 90%;
+ 	border:none;
+  	padding: 10px;
+	word-wrap: normal;
+}
+
+.middle{
+	display: block;
+	width: 1024px;
+	height:auto;
+	background-color:#98B661;
+	margin: auto;
+ 	width: 90%;
+ 	border:none;
+  	padding: 10px;
+	text-align:center;
+}
+
+.media{
+	display: block;
+	width: 1024px;
+	height:auto;
+	background-color:#98B661;
+	margin: auto;
+ 	width: 90%;
+ 	border:none;
+  	padding: 10px;
+	text-align: center;
+}
+
+.comment{
+	display: inline-block;
+	width: 1019px;
+	height:auto;
+	background-color:#98B661;
+	margin: 10px;
+ 	width: 90%;
+ 	border:dotted;
+  	padding: 10px;
+	text-align: center;
+}
+
+img{
+	padding: 10px;
+}
